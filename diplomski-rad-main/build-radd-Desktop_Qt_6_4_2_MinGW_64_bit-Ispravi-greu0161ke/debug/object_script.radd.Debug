@@ -1,0 +1,13 @@
+debug/about.o
+debug/glavna.o
+debug/home.o
+debug/login.o
+debug/main.o
+debug/mainwindow.o
+debug/registracija.o
+debug/moc_about.o
+debug/moc_glavna.o
+debug/moc_home.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_registracija.o
